@@ -1,4 +1,4 @@
-## Oi, Yuri Oliveira aqui
+## Oi, Yuri Oliveira aqui!
 
 <div align="center">
   <a href="https://github.com/yuri-ro">
